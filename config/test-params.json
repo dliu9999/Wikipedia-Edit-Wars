@@ -1,0 +1,4 @@
+{"data_fp": "test/testdata/testDump.txt",
+ "db_outfp": "data/temp/testBase.db",
+ "outdir": "data/eda",
+ "db_fp": "data/temp/testBase.db"}

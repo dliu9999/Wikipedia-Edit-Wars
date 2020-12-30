@@ -1,0 +1,4 @@
+{"data_fp": "data/raw/en-wiki.txt",
+ "db_outfp": "data/temp/en-wiki.db",
+ "outdir": "data/eda",
+ "db_fp": "data/temp/en-wiki.db"}
